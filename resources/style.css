@@ -4,10 +4,12 @@ body{
 }
 h1{
   background-image: image(C:\Users\Cameron Castillo\Documents\projects\Broadway\resources\images\the-flatiron-building-png);
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
 }
 p.links{
-  font-family: Helvetica;
   font-size: 18px;
   text-decoration: underline;
-  color: white; 
+  color: white;
 }
