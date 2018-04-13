@@ -3,13 +3,19 @@ body{
   font-family: Helvetica;
 }
 h1{
-  background-image: image(C:\Users\Cameron Castillo\Documents\projects\Broadway\resources\images\the-flatiron-building-png);
+  background-image: url("C:\Users\Cameron Castillo\Documents\projects\Broadway\resources\images\the-flatiron-building-png");
   color: white;
   font-size: 70px;
   font-weight: bold;
 }
-p.links{
+.links{
   font-size: 18px;
   text-decoration: underline;
   color: white;
+}
+footer{
+  text-align: left; !important
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
